@@ -1,0 +1,28 @@
+{
+  "name": "tsapp",
+  "version": "1.0.0",
+  "description": "TypeScript in Node.js App to create REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danasugu/tsapp.git"
+  },
+  "keywords": [
+    "Typescript",
+    "Node.js",
+    "REST",
+    "API"
+  ],
+  "author": "Dana Sugu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danasugu/tsapp/issues"
+  },
+  "homepage": "https://github.com/danasugu/tsapp#readme",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
